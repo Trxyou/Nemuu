@@ -3,9 +3,9 @@ Nemuu -> Merupakan sebuah alat yang dapat membantu & memudahkan masyarakat dalam
 
 # Nemuu list repo
   -> Nemuu_System 
-                -> Electrical_Program.py 
-                                      -> database 
-                                                -> Nemuu.db
+----------------> Electrical_Program.py 
+--------------------------------------> database 
+----------------------------------------------> Nemuu.db
 
 
 # Attention
